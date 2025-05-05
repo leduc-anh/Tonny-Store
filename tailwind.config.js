@@ -7,6 +7,10 @@ export default {
   content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
   theme: {
     extend: {
+      fontFamily: {
+        sans: ['Inter', 'sans-serif'],
+        header: ['shopfont', 'sans-serif']
+      },
       borderRadius: {
         lg: 'var(--radius)',
         md: 'calc(var(--radius) - 2px)',
@@ -82,7 +86,14 @@ export default {
         },
       },
     },
+    screens: {
+      'xxs':'10px',
+      'xs': '475px', 
+      'sm': '640px',
+      'md': '1350px',
+    },
   },
+  
   plugins: [
     tailwindcssAnimate,
     tailwindcssFilters,
