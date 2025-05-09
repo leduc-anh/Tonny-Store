@@ -24,7 +24,7 @@ function AutoSlider() {
 
 
   return (
-    <div className={cn("w-full md:h-[600px] xxs:aspect-[16/9] relative overflow-hidden")}>
+    <div className={cn("w-full md:h-[80vh] xxs:aspect-[16/9] relative overflow-hidden")}>
       {images.map((img, index) => (
         <img
           key={index}

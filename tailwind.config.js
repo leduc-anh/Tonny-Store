@@ -8,7 +8,7 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        sans: ['Inter', 'sans-serif'],
+        sans: ['cursive', 'sans-serif'],
         header: ['shopfont', 'sans-serif']
       },
       borderRadius: {
