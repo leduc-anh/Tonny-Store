@@ -6,11 +6,11 @@ const dataproductList = [
         price: 233000,
         image: [
             {
-                src: "images/fakeproduct/id1-1.webp",
+                src: "/images/fakeproduct/id1-1.webp",
                 alt: "Áo thun nam 1"
             },
             {
-                src: "images/fakeproduct/id1-2.webp",
+                src: "/images/fakeproduct/id1-2.webp",
                 alt: "Áo thun nam 2"
             }
         ],
@@ -36,11 +36,11 @@ const dataproductList = [
         price: 233000,
         image: [
             {
-                src: "images/fakeproduct/id2-1.webp",
+                src: "/images/fakeproduct/id2-1.webp",
                 alt: "Vải Lụa Ánh Sao Màu Hồng 1"
             },
             {
-                src: "images/fakeproduct/id2-2.webp",
+                src: "/images/fakeproduct/id2-2.webp",
                 alt: "Vải Lụa Ánh Sao Màu Hồng 2"
             }
         ],
@@ -66,11 +66,11 @@ const dataproductList = [
         price: 233000,
         image: [
             {
-                src: "images/fakeproduct/id3-1.webp",
+                src: "/images/fakeproduct/id3-1.webp",
                 alt: "Áo thun nam 1"
             },
             {
-                src: "images/fakeproduct/id3-2.webp",
+                src: "/images/fakeproduct/id3-2.webp",
                 alt: "Áo thun nam 2"
             }
         ],
@@ -96,11 +96,11 @@ const dataproductList = [
         price: 233000,
         image: [
             {
-                src: "images/fakeproduct/id4-1.webp",
+                src: "/images/fakeproduct/id4-1.webp",
                 alt: "Áo thun nam 1"
             },
             {
-                src: "images/fakeproduct/id1-2.webp",
+                src: "/images/fakeproduct/id1-2.webp",
                 alt: "Áo thun nam 2"
             }
         ],
@@ -126,7 +126,7 @@ const dataproductList = [
         price: 156800,
         image: [
             {
-                src: "images/fakeproduct/id5-1.webp",
+                src: "/images/fakeproduct/id5-1.webp",
                 alt: "Áo thun nam 1"
             },
         ],
@@ -151,11 +151,11 @@ const dataproductList = [
         price: 302400,
         image: [
             {
-                src: "images/fakeproduct/id6-1.jpg",
+                src: "/images/fakeproduct/id6-1.jpg",
                 alt: "Áo thun nam 1"
             },
             {
-                src: "images/fakeproduct/id6-2.webp",
+                src: "/images/fakeproduct/id6-2.webp",
                 alt: "Áo thun nam 2"
             }
         ],
@@ -181,7 +181,7 @@ const dataproductList = [
         price: 425600,
         image: [
             {
-                src: "images/fakeproduct/id7-1.webp",
+                src: "/images/fakeproduct/id7-1.webp",
                 alt: "Áo thun nam 1"
             },
         ],
@@ -210,7 +210,7 @@ const dataproductList = [
         price: 233000,
         image: [
             {
-                src: "images/fakeproduct/id8-1.webp",
+                src: "/images/fakeproduct/id8-1.webp",
                 alt: "Áo thun nam 1"
             },
         ],
@@ -239,7 +239,7 @@ const dataproductList = [
         price: 380800,
         image: [
             {
-                src: "images/fakeproduct/id9-1.webp",
+                src: "/images/fakeproduct/id9-1.webp",
                 alt: "Áo thun nam 1"
             },
         ],
@@ -268,11 +268,11 @@ const dataproductList = [
         price: 396000,
         image: [
             {
-                src: "images/fakeproduct/id10-1.jpg",
+                src: "/images/fakeproduct/id10-1.jpg",
                 alt: "Áo thun nam 1"
             },
             {
-                src: "images/fakeproduct/id10-2.jpg",
+                src: "/images/fakeproduct/id10-2.jpg",
                 alt: "Áo thun nam 1"
             },
         ],
@@ -301,7 +301,7 @@ const dataproductList = [
         price: 460000,
         image: [
             {
-                src: "images/fakeproduct/id11-1.webp",
+                src: "/images/fakeproduct/id11-1.webp",
                 alt: "Áo thun nam 1"
             },
         ],
@@ -330,11 +330,11 @@ const dataproductList = [
         price: 233000,
         image: [
             {
-                src: "images/fakeproduct/id12-1.jpg",
+                src: "/images/fakeproduct/id12-1.jpg",
                 alt: "Áo thun nam 1"
             },
             {
-                src: "images/fakeproduct/id12-2.webp",
+                src: "/images/fakeproduct/id12-2.webp",
                 alt: "Áo thun nam 1"
             },
         ],
@@ -363,11 +363,11 @@ const dataproductList = [
         price: 68000,
         image: [
             {
-                src: "images/fakeproduct/id13-1.webp",
+                src: "/images/fakeproduct/id13-1.webp",
                 alt: "Áo thun nam 1"
             },
             {
-                src: "images/fakeproduct/id13-2.webp",
+                src: "/images/fakeproduct/id13-2.webp",
                 alt: "Áo thun nam 1"
             },
         ],
@@ -389,11 +389,11 @@ const dataproductList = [
         price: 68200,
         image: [
             {
-                src: "images/fakeproduct/id14-1.webp",
+                src: "/images/fakeproduct/id14-1.webp",
                 alt: "Áo thun nam 1"
             },
             {
-                src: "images/fakeproduct/id14-2.webp",
+                src: "/images/fakeproduct/id14-2.webp",
                 alt: "Áo thun nam 1"
             },
         ],
@@ -415,11 +415,11 @@ const dataproductList = [
         price: 69660,
         image: [
             {
-                src: "images/fakeproduct/id15-1.webp",
+                src: "/images/fakeproduct/id15-1.webp",
                 alt: "Áo thun nam 1"
             },
             {
-                src: "images/fakeproduct/id15-2.webp",
+                src: "/images/fakeproduct/id15-2.webp",
                 alt: "Áo thun nam 1"
             },
         ],
@@ -441,15 +441,15 @@ const dataproductList = [
         price: 69660,
         image: [
             {
-                src: "images/fakeproduct/id16-1.webp",
+                src: "/images/fakeproduct/id16-1.webp",
                 alt: "Áo thun nam 1"
             },
             {
-                src: "images/fakeproduct/id16-2.webp",
+                src: "/images/fakeproduct/id16-2.webp",
                 alt: "Áo thun nam 1"
             },
             {
-                src: "images/fakeproduct/id16-3.webp",
+                src: "/images/fakeproduct/id16-3.webp",
                 alt: "Áo thun nam 1"
             },
         ],
@@ -471,15 +471,15 @@ const dataproductList = [
         price: 53660,
         image: [
             {
-                src: "images/fakeproduct/id17-1.webp",
+                src: "/images/fakeproduct/id17-1.webp",
                 alt: "Áo thun nam 1"
             },
             {
-                src: "images/fakeproduct/id17-2.webp",
+                src: "/images/fakeproduct/id17-2.webp",
                 alt: "Áo thun nam 1"
             },
             {
-                src: "images/fakeproduct/id17-3.webp",
+                src: "/images/fakeproduct/id17-3.webp",
                 alt: "Áo thun nam 1"
             },
         ],
@@ -501,11 +501,11 @@ const dataproductList = [
         price: 57660,
         image: [
             {
-                src: "images/fakeproduct/id18-1.webp",
+                src: "/images/fakeproduct/id18-1.webp",
                 alt: "Áo thun nam 1"
             },
             {
-                src: "images/fakeproduct/id18-2.webp",
+                src: "/images/fakeproduct/id18-2.webp",
                 alt: "Áo thun nam 1"
             },
             
@@ -528,15 +528,15 @@ const dataproductList = [
         price: 649000,
         image: [
             {
-                src: "images/fakeproduct/id19-1.webp",
+                src: "/images/fakeproduct/id19-1.webp",
                 alt: "Áo thun nam 1"
             },
             {
-                src: "images/fakeproduct/id19-2.webp",
+                src: "/images/fakeproduct/id19-2.webp",
                 alt: "Áo thun nam 1"
             },
             {
-                src: "images/fakeproduct/id19-3.webp",
+                src: "/images/fakeproduct/id19-3.webp",
                 alt: "Áo thun nam 1"
             },
             
@@ -559,15 +559,15 @@ const dataproductList = [
         price: 848000,
         image: [
             {
-                src: "images/fakeproduct/id20-1.webp",
+                src: "/images/fakeproduct/id20-1.webp",
                 alt: "Áo thun nam 1"
             },
             {
-                src: "images/fakeproduct/id20-2.webp",
+                src: "/images/fakeproduct/id20-2.webp",
                 alt: "Áo thun nam 1"
             },
             {
-                src: "images/fakeproduct/id20-3.webp",
+                src: "/images/fakeproduct/id20-3.webp",
                 alt: "Áo thun nam 1"
             },
             
@@ -590,7 +590,7 @@ const dataproductList = [
         price: 320000,
         image: [
             {
-                src: "images/fakeproduct/id21-1.webp",
+                src: "/images/fakeproduct/id21-1.webp",
                 alt: "Áo thun nam 1"
             },
             
@@ -613,15 +613,15 @@ const dataproductList = [
         price: 660000,
         image: [
             {
-                src: "images/fakeproduct/id22-1.webp",
+                src: "/images/fakeproduct/id22-1.webp",
                 alt: "Áo thun nam 1"
             },
             {
-                src: "images/fakeproduct/id22-2.webp",
+                src: "/images/fakeproduct/id22-2.webp",
                 alt: "Áo thun nam 1"
             },
             {
-                src: "images/fakeproduct/id22-3.webp",
+                src: "/images/fakeproduct/id22-3.webp",
                 alt: "Áo thun nam 1"
             },
             
@@ -644,15 +644,15 @@ const dataproductList = [
         price: 1350000,
         image: [
             {
-                src: "images/fakeproduct/id23-1.webp",
+                src: "/images/fakeproduct/id23-1.webp",
                 alt: "Áo thun nam 1"
             },
             {
-                src: "images/fakeproduct/id23-2.webp",
+                src: "/images/fakeproduct/id23-2.webp",
                 alt: "Áo thun nam 1"
             },
             {
-                src: "images/fakeproduct/id23-3.webp",
+                src: "/images/fakeproduct/id23-3.webp",
                 alt: "Áo thun nam 1"
             },
             
@@ -675,11 +675,11 @@ const dataproductList = [
         price: 180000,
         image: [
             {
-                src: "images/fakeproduct/id24-1.webp",
+                src: "/images/fakeproduct/id24-1.webp",
                 alt: "Áo thun nam 1"
             },
             {
-                src: "images/fakeproduct/id24-2.webp",
+                src: "/images/fakeproduct/id24-2.webp",
                 alt: "Áo thun nam 1"
             },
             

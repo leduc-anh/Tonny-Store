@@ -20,14 +20,12 @@ function Header() {
                     <h1 className={cn("font-header md:text-2xl sm:text-2xl")}>Tonny Fashion</h1>
                 </div>
                 <div className={cn("flex items-center justify-end flex-1 w-1/3 gap-x-6")}>
-                    {/* Input: ẩn trên màn hình nhỏ */}
                     <input
                         type="text"
                         placeholder="Bạn đang tìm gì?"
                         className={cn(" border-2 border-pink-600 px-2 py-1 focus:outline-none text-black hidden md:block")}
                     />
 
-                    {/* Icon tìm kiếm: chỉ hiện khi input ẩn */}
                     <FaSearch
                         className="text-black md:hidden hover:text-gray-600 cursor-pointer"
                         onClick={toggleSearch}

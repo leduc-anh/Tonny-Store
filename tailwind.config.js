@@ -8,7 +8,7 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        sans: ['cursive', 'sans-serif'],
+        sans: ['math', 'sans-serif'],
         header: ['shopfont', 'sans-serif']
       },
       borderRadius: {
@@ -63,6 +63,8 @@ export default {
         'scaleIn': 'scaleIn 0.3s ease-out',
         'scaleOut': 'scaleOut 0.3s ease-out',
         'blink': 'blink 0.8s infinite',
+        fadeIn: 'fadeIn 0.3s ease-out forwards',
+        slideDown: 'slideDown 0.3s ease-out',
       },
       boxShadow: {
         '3xl': '0px 4px 8px rgba(0, 0, 0, 0.5)',
@@ -83,6 +85,14 @@ export default {
         blink: {
           '0%, 100%': { opacity: '1' },
           '50%': { opacity: '0' },
+        },
+        fadeIn: {
+          '0%': { opacity: '0' },
+          '100%': { opacity: '1' },
+        },
+        slideDown: {
+          '0%': { opacity: 0, transform: 'translateY(-10px)' },
+          '100%': { opacity: 1, transform: 'translateY(0)' },
         },
       },
     },
